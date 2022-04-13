@@ -28,6 +28,5 @@ package-lock.json
 firebase.js
 .firebaserc
 firebase.json
-/firebase
-.firebase/hosting.YnVpbGQ.cache
+
 
